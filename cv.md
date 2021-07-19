@@ -19,7 +19,7 @@
    * knowledge of
       * MIPS Assembly (70%)
 1. Code in HTML
-   ```html
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -247,7 +247,7 @@
 <br><br><br><br>
 </body>
 </html>
-   ```
+```
 1. Experience as a Computer Science student: 3-month internship at the Ministry of Digital Development, Innovation, and Aerospace Industry in Nur-Sultan city. The project goal was to construct a report about the state of digital intelligence in the country and propose measures of how to better the situation in that sense. This kind of work was mostly analytical.
 1.
 Time Period | Education and Experience
