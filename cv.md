@@ -258,4 +258,5 @@ Time Period | Education and Experience
 Jan-Mar 2021 | Internship, Ministry of Digital Development, Innovation, and Aerospace Industry, Nur-Sultan city
 2016-2017 | Foundation Program, Technical direction, Nazarbayev University, Nur-Sultan city
 2009-2014 | Secondary Education, graduated with *Honors Degree*, Economic lyceum, Aktau city
+
 * English level - strong Upper-Intermediate
