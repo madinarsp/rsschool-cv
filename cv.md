@@ -249,7 +249,8 @@
 </html>
 ```
 * Experience as a Computer Science student: 3-month internship at the Ministry of Digital Development, Innovation, and Aerospace Industry in Nur-Sultan city. The project goal was to construct a report about the state of digital intelligence in the country and propose measures of how to better the situation in that sense. This kind of work was mostly analytical.
-*
+* Education section
+
 Time Period | Education and Experience
 ----------- | ------------------------
 2017-2021 | Bachelors degree in Computer Science, Nazarbayev University, Nur-Sultan city
