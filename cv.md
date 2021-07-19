@@ -1,10 +1,10 @@
 # My CV
-1. Who am I? Madina Ryspayeva
-1. Contact me via:
+* Who am I? Madina Ryspayeva
+* Contact me via:
    * Telegram: (nickname) lanalover
    * Email: madinarsp20@gmail.com
-1. A bit about myself: Nazarbayev University (Nur-Sultan city, Kazakhstan) graduate with a bachelor degree in Computer Science. My current interest is in studying __Front-end development__. I have some basics knowledge about the field but I continue my studies. I'm looking forward to get an internship or a job related to the field to get practical experience and to broaden my knowledge. I find myself quite pedantic (in a good sense) person, who tries to get to the truth of things that are interesting to me. I like discovering (learning) new things and always try to know more about them, it's important for me too that the information is true and reliable.
-1. Technical skills:
+* A bit about myself: Nazarbayev University (Nur-Sultan city, Kazakhstan) graduate with a bachelor degree in Computer Science. My current interest is in studying __Front-end development__. I have some basics knowledge about the field but I continue my studies. I'm looking forward to get an internship or a job related to the field to get practical experience and to broaden my knowledge. I find myself quite pedantic (in a good sense) person, who tries to get to the truth of things that are interesting to me. I like discovering (learning) new things and always try to know more about them, it's important for me too that the information is true and reliable.
+* Technical skills:
    * programming on:
       * HTML&CSS (40%)
       * JavaScript(20%)
@@ -18,7 +18,7 @@
       * git version control
    * knowledge of
       * MIPS Assembly (70%)
-1. Code in HTML
+* Code in HTML
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -248,12 +248,12 @@
 </body>
 </html>
 ```
-1. Experience as a Computer Science student: 3-month internship at the Ministry of Digital Development, Innovation, and Aerospace Industry in Nur-Sultan city. The project goal was to construct a report about the state of digital intelligence in the country and propose measures of how to better the situation in that sense. This kind of work was mostly analytical.
-1.
+* Experience as a Computer Science student: 3-month internship at the Ministry of Digital Development, Innovation, and Aerospace Industry in Nur-Sultan city. The project goal was to construct a report about the state of digital intelligence in the country and propose measures of how to better the situation in that sense. This kind of work was mostly analytical.
+*
 Time Period | Education and Experience
 ----------- | ------------------------
 2017-2021 | Bachelors degree in Computer Science, Nazarbayev University, Nur-Sultan city
 Jan-Mar 2021 | Internship, Ministry of Digital Development, Innovation, and Aerospace Industry, Nur-Sultan city
 2016-2017 | Foundation Program, Technical direction, Nazarbayev University, Nur-Sultan city
 2009-2014 | Secondary Education, graduated with *Honors Degree*, Economic lyceum, Aktau city
-1. English level - strong Upper-Intermediate
+* English level - strong Upper-Intermediate
