@@ -19,6 +19,7 @@
    * knowledge of
       * MIPS Assembly (70%)
 * Code in HTML
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
