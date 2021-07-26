@@ -1,0 +1,55 @@
+
+/* Styles for the page */
+
+.container {
+    margin: auto;
+    width: 1200px;
+}
+
+.cv-heading {
+    text-align: center;
+}
+
+.owner-photo {
+    display: block;
+    margin: auto;
+}
+
+.blockquote {
+    margin-top: 5px;
+    padding: 8px 8px;
+    background-color: rgba(128, 128, 128, 0.3);
+}
+
+p {
+    line-height: 1.5;
+}
+
+.school-logo {
+    display: block;
+    margin-bottom: 10px;
+}
+
+ul {
+    line-height: 2;
+}
+
+table,
+th,
+td {
+    border: 1px solid #000000;
+}
+
+tr:nth-child(even) {
+    background-color: #add8e6;
+}
+
+th {
+    background-color: #77c3ec;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+}
