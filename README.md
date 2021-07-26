@@ -1,1 +1,2 @@
-https://madinarsp.github.io/rsschool-cv/cv
+link to CV:
+https://madinarsp.github.io/rsschool-cv/
