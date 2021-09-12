@@ -6,7 +6,9 @@
    * Telegram: (nickname) lanalover
    * Email: madinarsp20@gmail.com
 
-* A bit about myself: Nazarbayev University (Nur-Sultan city, Kazakhstan) graduate with a bachelor degree in Computer Science. My current interest is in studying __Front-end development__. I have some basics knowledge about the field but I continue my studies. I'm looking forward to get an internship or a job related to the field to get practical experience and to broaden my knowledge. I find myself quite pedantic (in a good sense) person, who tries to get to the truth of things that are interesting to me. I like discovering (which means learning) new things and always try to know more about them, it's important for me too that the information is true and reliable.                
+* A bit about myself: Nazarbayev University (Nur-Sultan city, Kazakhstan) graduate with a bachelor degree in Computer Science. My current interest is in studying __Front-end development__. I have some basics knowledge about the field but I continue my studies. I'm looking forward to get an internship or a job related to the field to get practical experience and to broaden my knowledge. I find myself quite pedantic (in a good sense) person, who tries to get to the truth of things that are interesting to me. I like discovering (which means learning) new things and always try to know more about them, it's important for me too that the information is true and reliable.
+
+---       
 
 * __Technical skills__:
    * _programming on:_
@@ -38,7 +40,8 @@ function decToBin(d) {
   return binStr;
 }
 ```
-                      
+
+---
 
 * Experience as a Computer Science student: 3-month internship at the Ministry of Digital Development, Innovation, and Aerospace Industry in Nur-Sultan city. The project goal was to construct a report about the state of digital intelligence in the country and propose measures on how to better the situation in that sense. This kind of work was mostly analytical.
 
