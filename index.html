@@ -2,78 +2,183 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MadinaR-CV</title>
     <link rel="stylesheet" href="styles/style.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
+    <link rel="preconnect" href="https://fonts.googleapis.com"> 
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;300;400;500;700&family=Montserrat:wght@100;300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/path/to/styles/default.css">
+    <script src="/path/to/highlight.min.js"></script>
+    <script>hljs.highlightAll();</script>
 </head>
 <body>
-    <div class="container">
-        <header class="header">
-            <h1 class="cv-heading">CV Page</h1>
-            <img class="owner-photo" src="images/img.JPG" alt="owners-photo" width="300">
-        </header>
-        <main class="main-content">
-            <article>
-                <h2>Hello World! I'm Madina Ryspayeva, and this is my CV</h2>
-                <section class="contacts">
-                    <h3>Contact information</h3>
-                    <ul>
-                        <li>Telegram: @lanalover</li>
-                        <li>Personal email: <a href="mailto:madinarsp20@gmail.com">madinarsp20@gmail.com</a></li>
-                    </ul>
-                </section>
-                <section class="about">
-                    <h3>A bit about myself</h3>
-                    <p>Nazarbayev University (Nur-Sultan city, Kazakhstan) graduate with a bachelor degree 
-                        in Computer Science. My current interest is in studying Front-end development. 
-                        I have some basics knowledge about the field but I continue my studies. 
-                        I'm looking forward to get an internship or a job related to the field to get 
-                        practical experience and to broaden my knowledge. I find myself quite pedantic 
-                        (in a good sense) person, who tries to get to the truth of things that are 
-                        interesting to me. I like discovering (which means learning) new things and always try 
-                        to know more about them, it's important for me too that the information is 
-                        true and reliable.</p>
-                    <div>
-                        If that can also describe me, I like the quote of <em>Marie Curie</em> which states the following:
-                        <div class="blockquote">
-                            <blockquote>
-                                Nothing in life is to be feared, it is only to be understood.
-                            </blockquote>
-                        </div>
+    <div class="wrapper">
+        <header>
+            <div class="header section-container">
+                <h1>Hi, I'm Madina Ryspayeva</h1>
+                <div class="hamburger-menu">
+                    <div class="hamburger-bar"></div>
+                </div>
+                <div class="photo-contacts_container">
+                    <div class="photo_container">
+                        <img id="owner-photo" src="images/img.JPG" alt="owner-photo">
                     </div>
-                </section>
-                <section class="tech-skills">
-                    <h3>Technical skills:</h3>
-                    <ul>
-                        <li>programming on
+                    <div class="contact-info_container">
+                        I'm available via:
+                        <ul class="contacts_list">
+                            <li><a href="mailto:madinarsp20@gmail.com" target="_blank"><span class="fas fa-envelope"></span> madinarsp20@gmail.com</a></li>
+                            <li><a href="tel:+77076001319" target="_blank"><span class="fas fa-phone"></span> +7 (707) 600-13-19</a></li>
+                            <li><a href="https://t.me/lanalover" target="_blank"><span class="fab fa-telegram-plane"></span> @lanalover</a></li>
+                            <li><a href="https://wa.me/77076001319" target="_blank"><span class="fab fa-whatsapp"></span> wa.me/77076001319</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <nav>
+            <div class="nav section-container">
+                <ul class="nav_list">
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#education">Education</a></li>
+                    <li><a href="#courses">Courses</a></li>
+                    <li><a href="#experience">Experience</a></li>
+                    <li><a href="#skills">Skills</a></li>
+                    <li><a href="#code-example">Code example</a></li>
+                    <li><a href="#projects">Projects</a></li>
+                </ul>
+            </div> 
+        </nav>
+        <main>
+            <section id="about">
+                <div class="about section-container">
+                    <h2>A bit about me</h2>
+                    <p>Nazarbayev University (Nur-Sultan city, Kazakhstan) graduate with a bachelor degree in Computer Science, young specialist.</p>
+                    <p>As a specialist I always strive towards developing and advancing my professional skills. 
+                        My current interest is in studying Front-end development. 
+                        Now I continue studying JavaScript, and I'm also taking courses to advance my web developing skills. 
+                        In addition, recently I developed an interest in Graphic Design. That's why now I'm taking course for beginners in that field.</p>
+                    <p>Talking about my spare time, I love reading non-fiction books (autobiographies, popular scientific), learning something new, watching content in English.</p>
+                    <p>For now I'm looking for a Junior position in a company where I can get practical experience and realize my professional goals.</p>
+                </div>
+                
+            </section>
+            <section id="education">
+                <div class="education section-container">
+                    <div>
+                        <h4>Bachelor's Degree</h4>
+                        <p>Nazarbayev University, Nur-Sultan, Kazakhstan</p>
+                        <p>Major: Computer Science</p>
+                        <p>GPA: 3.47 / 4.0</p>
+                        <p>Period: 2017 - 2021</p>
+                    </div><div>
+                        <h4>Foundation Year Program</h4>
+                        <p>Nazarbayev University, Nur-Sultan, Kazakhstan</p>
+                        <p>Pathway: Technical</p>
+                        <p>Period: 2016 - 2017</p>
+                    </div><div>
+                        <h4>Non-complete Higher Education</h4>
+                        <p>Kazakh-British Technical University, Almaty, Kazakhstan</p>
+                        <p>Major: Automation and Control</p>
+                        <p>Period: 2014 - 2016</p>
+                    </div><div>
+                        <h4>Secondary Education</h4>
+                        <p>Economic lyceum, Aktau, Kazakhstan</p>
+                        <p>Red Diploma (Honors degree)</p>
+                        <p>Period: 2009 - 2014</p>
+                    </div>
+                </div>
+            </section>
+            <section id="courses">
+                <div class="courses section-container">
+                    <h2>Courses</h2>
+                    <div>
+                        <span>Sept 2021 - curr.period</span>
+                        <span>"JavaScript / Front-end" course</span>
+                        <span><a href="https://rs.school/js/" target="_blank">Rolling Scopes School</a></span>
+                    </div>
+                    <div>
+                        <span>Sept 2021 - curr.period</span>
+                        <span>"Graphic Design for Beginners" course</span>
+                        <span><a href="https://dclab.kz/graficheskij-dizajn-dlja-nachinajushhih-5/" target="_blank">Digital Creativity Lab</a></span>
+                    </div>
+                    <div>
+                        <span>June 2021 - curr.period</span>
+                        <span>"Responsive Web Design" course</span>
+                        <span><a href="https://www.freecodecamp.org/learn/responsive-web-design/" target="_blank">freeCodeCamp</a></span>
+                    </div>
+                    <div>
+                        <span>July - Aug 2021</span>
+                        <span>"JavaScript / Front-end. Stage 0" course</span>
+                        <span><a href="https://rs.school/js-stage0/" target="_blank">Rolling Scopes School</a></span>
+                    </div>
+                    <div>
+                        <span>June - Aug 2020</span>
+                        <span>"Python for Everybody" specialization (3/5 courses passed)</span>
+                        <span><a href="https://ru.coursera.org/specializations/python" target="_blank">Coursera</a></span>
+                    </div>
+                </div>
+            </section>
+            <section id="experience">
+                <div class="experience section-container">
+                    <h2>Experience as a Computer Science student</h2>
+                    <p>A 3-month internship at the Ministry of Digital Development, Innovation, 
+                        and Aerospace Industry in Nur-Sultan city. The project goal was 
+                        to construct a report about the state of digital intelligence in the country 
+                        and propose measures on how to better the situation in that sense. 
+                        This kind of work was mostly analytical.</p>
+
+                </div>
+            </section>
+            <section id="skills">
+                <div class="skills section-container">
+                    <div class="tech-skills">
+                        <h2>Technical Skills</h2>
+                        <div class="tech-skills-col">
+                            <h3>Programming on</h3>
                             <ul>
-                                <li>HTML&CSS (50%)</li>
+                                <li>HTML&CSS (60%)</li>
                                 <li>JavaScript (30%)</li>
                                 <li>Python (30%)</li>
                                 <li>Java (30%)</li>
                                 <li>C++ and C (30%)</li>
-                                <li>Flutter (30%)</li>
+                                <li>Dart (20%)</li>
+                                <li>MIPS Assembly (50%)</li>
                             </ul>
-                        </li>
-                        <li>experience with
+                        </div><div class="tech-skills-col">
+                            <h3>Experience with</h3>
                             <ul>
                                 <li>Firebase Platform</li>
                                 <li>MySQL system</li>
-                                <li>git version control</li>
                                 <li>Arduino</li>
+                                <li>Adobe Photoshop</li>
+                                <li>Adobe Illustrator</li>
                             </ul>
-                        </li>
-                        <li>knowledge of
+                            <h3>Knowledge of</h3>
                             <ul>
-                                <li>MIPS Assembly (70%)</li>
+                                <li>git version control</li>
                             </ul>
-                        </li>
-                    </ul>
-                </section>
-                <section class="code-example">
-                    <h3>Code example</h3>
-                    <p>Kata task: Convert decimal numbers to binary. Enjoy! No cheating. No toString</p>
+                        </div>
+                    </div>
+                    <div class="lang-skills">
+                        <h2>Languages</h2>
+                        <div>
+                            <h3>Knowledge level</h3>
+                            <ul>
+                                <li>Russian (fluent)</li>
+                                <li>English (Upper-Intermediate / B2)</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section id="code-example">
+                <div class="code-example section-container">
+                    <h2>Code Example from Codewars</h2>
+                    <p>Kata task: Convert decimal numbers to binary. No toString</p>
                     <pre>
-                        <code>
+                        <code class="language-javascript hljs">
                         function decToBin(d) {
                             let binStr = '';
                             if(d == 0) return (binStr + 0);
@@ -85,96 +190,71 @@
                         }
                         </code>
                     </pre>
-                </section>
-                <section class="experience">
-                    <h3>
-                        Experience as a Computer Science student
-                    </h3>
-                    <p>
-                        A 3-month internship at the Ministry of Digital Development, Innovation, 
-                        and Aerospace Industry in Nur-Sultan city. The project goal was 
-                        to construct a report about the state of digital intelligence in the country 
-                        and propose measures on how to better the situation in that sense. 
-                        This kind of work was mostly analytical.
-                    </p>
-                </section>
-                <section class="courses">
-                    <h3>Courses section</h3>
-                    <table>
-                        <thead>
-                            <tr>
-                                <th>Time Period</th>
-                                <th>Courses</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <td>Sept 2021 - curr.period</td>
-                                <td>"JavaScript/Frond-end" course, RS School, online</td>
-                            </tr>
-                            <tr>
-                                <td>June 2021 - curr.period</td>
-                                <td>"Responsive Web Design" course, freeCodeCamp, online</td>
-                            </tr>
-                            <tr>
-                                <td>July - Aug 2021</td>
-                                <td>"JavaScript/Frond-end. Stage 0" course, RS School, online</td>
-                            </tr>
-                            <tr>
-                                <td>June - Aug 2020</td>
-                                <td>"Python for Everybody Specialization", Coursera, online</td>
-                            </tr>
-                        </tbody>
-                    </table>
-                </section>
-                <section class="education">
-                    <h3>Education section</h3>
-                    <table>
-                        <thead>
-                            <tr>
-                                <th>Time Period</th>
-                                <th>Education and Experience</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <td>2017 - 2021</td>
-                                <td>Bachelors degree in <em>Computer Science</em>, Nazarbayev University, Nur-Sultan city</td>
-                            </tr>
-                            <tr>
-                                <td>Jan - Mar 2021</td>
-                                <td>Internship, Ministry of Digital Development, Innovation, and Aerospace Industry, Nur-Sultan city</td>
-                            </tr>
-                            <tr>
-                                <td>2016 - 2017</td>
-                                <td>Foundation Program, Technical direction, Nazarbayev University, Nur-Sultan city</td>
-                            </tr>
-                            <tr>
-                                <td>2009 - 2014</td>
-                                <td>Secondary Education, graduated with <em>Honors Degree</em>, Economic lyceum, Aktau city</td>
-                            </tr>
-                        </tbody>
-                    </table>
-                </section>
-                <section class="english-level">
-                    <h3>English language level</h3>
-                    <ul>
-                        <li>strong Upper-Intermediate</li>
-                        <li>English was the language of instruction at Nazarbayev University</li>
-                    </ul>
-                </section>
-            </article>
+                </div>
+            </section>
+            <section id="projects">
+                <div class="projects section-container">
+                    <h2>Projects</h2>
+                    <div class="project_wrapper">
+                        <div>
+                            <a href="https://madinarsp.github.io/photofilter/" target="_blank">
+                                <img src="images/photofilter.png" alt="project1-screenshot">
+                            </a>
+                        </div>
+                        <div>
+                            <h3>Photofilter</h3>
+                            <p><a href="https://github.com/rolling-scopes-school/tasks/blob/master/tasks/js30/js30-5.md" target="_blank">Task link</a></p>
+                            <br>
+                            <p>Photofilter with a number of filters and ready presets. CSS variables were used.</p>
+                            <br>
+                            <p>Used HTML, CSS, JavaScript</p>
+                        </div>
+                    </div>
+                    <div class="project_wrapper">
+                        <div>
+                            <a href="https://rolling-scopes-school.github.io/madinar19-JSFE2021Q1/virtual-piano/" target="_blank">
+                                <img src="images/piano.png" alt="project2-screenshot">
+                            </a>
+                        </div>
+                        <div>
+                            <h3>Virtual Piano</h3>
+                            <p>Virtual piano that you can play on. The page includes such feature as switching to fullscreen.</p>
+                            <br>
+                            <p>Used HTML, CSS, JavaScript</p>
+                        </div>
+                    </div>
+                    <div class="project_wrapper">
+                        <div>
+                            <a href="https://rolling-scopes-school.github.io/madinar19-JS2020Q3/webdev/" target="_blank">
+                                <img src="images/webdev.png" alt="project3-screenshot">
+                            </a>
+                        </div>
+                        <div>
+                            <h3>Webdev</h3>
+                            <p><a href="https://github.com/rolling-scopes-school/tasks/blob/master/tasks/markups/level-1/webdev/webdev-ru.md" target="_blank">Task link</a></p>
+                            <br>
+                            <p>Layout of the page was done based on the Figma mock-up.</p>
+                            <br>
+                            <p>Used HTML, CSS, JavaScript</p>
+                        </div>
+                    </div>
+                </div>
+                
+            </section>
+
         </main>
-        <hr>
         <footer class="footer">
             <div>
-                <a href="https://github.com/madinarsp">My GitHub</a>
+                <a href="https://github.com/madinarsp" target="_blank">My GitHub</a>
                 <p>This app was designed in <b>2021</b></p>
             </div>
             <div>
-                <a href="https://rs.school/js/"><img class="school-logo" src="images/rs_school_js.svg" alt="course-logo" width="90"></a>
+                <a href="https://rs.school/js/" target="_blank">
+                    <img class="school-logo" src="images/rs_school_js.svg" alt="course-logo" width="90">
+                </a>
             </div>
         </footer>
     </div>
+    <script src="app.js"></script>
 </body>
 </html>
