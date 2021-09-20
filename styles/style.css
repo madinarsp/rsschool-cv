@@ -14,7 +14,6 @@ ul {
     list-style: none;
 }
 
-
 /* Styles for the page */
 
 .wrapper {
@@ -141,6 +140,7 @@ nav {
 }
 
 /* Experience */
+
 #experience {
     background-color: seashell;
 }
@@ -156,7 +156,6 @@ nav {
     margin: 0 auto;
 }
 
-
 /* Skills */
 
 #skills {
@@ -166,25 +165,32 @@ nav {
 .skills {
     padding-top: 10px;
     padding-bottom: 10px;
-    text-align: center;
 }
 
-.skills-col,
+.tech-skills,
+.lang-skills {
+    display: flex;
+    justify-content: left;
+}
+
+.lang-skills div,
 .tech-skills-col {
     display: inline-block;
     vertical-align: text-top;
     text-align: left;
 }
 
-.skills-col:nth-child(1) {
-    width: 70%;
+.tech-skills h2,
+.lang-skills h2 {
+    width: 20%;
 }
+
 
 .tech-skills-col {
-    width: 50%;
+    width: 40%;
 }
 
-.skills-col ul li {
+.skills > div ul li {
     padding-left: 25px;
 }
 
@@ -240,50 +246,7 @@ nav {
     float: right;
 }
 
-
-
-
-
-
-
-
-
-.cv-heading {
-    text-align: center;
-}
-
-.owner-photo {
-    display: block;
-    margin: auto;
-}
-
-.blockquote {
-    margin-top: 5px;
-    padding: 8px 8px;
-    background-color: rgba(128, 128, 128, 0.3);
-}
-
-p {
-    line-height: 1.5;
-}
-
-ul {
-    line-height: 2;
-}
-
-table,
-th,
-td {
-    border: 1px solid #000000;
-}
-
-tr:nth-child(even) {
-    background-color: #add8e6;
-}
-
-th {
-    background-color: #77c3ec;
-}
+/* Footer */
 
 .footer {
     display: flex;
