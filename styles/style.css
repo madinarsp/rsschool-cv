@@ -19,15 +19,18 @@ a {
     /*calc(100vw - 10%);*/
 }
 
+.section-container {
+    width: 90%;
+    margin: 0 auto;
+}
+
 header {
     background-color: #add8e6;
     padding-top: 20px;
     padding-bottom: 20px;
 }
 
-.header_container {
-    width: 90%;
-    margin: 0 auto;
+.header {
     text-align: center;
 }
 
@@ -58,7 +61,34 @@ header {
 }
 
 
+/* Navigation */
 
+nav {
+    background-color: cornflowerblue;
+}
+
+.nav {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.nav_list {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+
+
+/* About section */
+
+#about {
+    background-color: darksalmon;
+}
+
+.about {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
 
 
 
