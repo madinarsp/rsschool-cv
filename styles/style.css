@@ -109,6 +109,51 @@ nav {
     padding-left: 8px;
 }
 
+/* Courses */
+
+#courses {
+    background-color: sandybrown;
+}
+
+.courses {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: relative;
+}
+
+.courses div {
+    display: inline-block;
+    width: 100%;
+}
+
+.courses div span:nth-child(2) {
+    position: absolute;
+    left: 25%;
+}
+
+.courses div span:nth-child(3) {
+    position: absolute;
+    left: 70%;
+}
+
+/* Experience */
+#experience {
+    background-color: seashell;
+}
+
+.experience {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.experience p {
+    width: 50%;
+    margin: 0 auto;
+}
+
+
+
 
 
 .cv-heading {
