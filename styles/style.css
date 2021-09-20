@@ -10,6 +10,10 @@ a {
     text-decoration: none;
 }
 
+ul {
+    list-style: none;
+}
+
 
 /* Styles for the page */
 
@@ -151,6 +155,50 @@ nav {
     width: 50%;
     margin: 0 auto;
 }
+
+
+/* Skills */
+
+#skills {
+    background-color: powderblue;
+}
+
+.skills {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.skills-col,
+.tech-skills-col {
+    display: inline-block;
+    vertical-align: text-top;
+    text-align: left;
+}
+
+.skills-col:nth-child(1) {
+    width: 70%;
+}
+
+.tech-skills-col {
+    width: 50%;
+}
+
+.skills-col ul li {
+    padding-left: 25px;
+}
+
+/* Code example */
+#code-example {
+    background-color: skyblue;
+}
+
+.code-example {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
 
 
 
