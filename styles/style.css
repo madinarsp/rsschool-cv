@@ -1,3 +1,4 @@
+
 /* Remove default styles */
 
 * {
@@ -34,8 +35,7 @@ h4 {
 
 .wrapper {
     margin: 0 auto;
-    width: calc(100vw - 10%);
-    /*calc(100vw - 10%);*/
+    width: 100vw;
 }
 
 .section-container {
