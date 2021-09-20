@@ -1,10 +1,66 @@
+/* Remove default styles */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
 
 /* Styles for the page */
 
-.container {
-    margin: auto;
-    width: 1200px;
+.wrapper {
+    margin: 0 auto;
+    width: calc(100vw - 10%);
+    /*calc(100vw - 10%);*/
 }
+
+header {
+    background-color: #add8e6;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.header_container {
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.photo-contacts_container {
+    margin: 10px auto;
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.photo-contacts_container div {
+    /*display: inline-block;*/
+    vertical-align: middle;
+}
+
+#owner-photo {
+    width: 300px;
+    border-radius: 50%;
+}
+
+.contact-info_container {
+    text-align: left;
+}
+
+.contacts_list {
+    list-style: none;
+}
+
+
+
+
+
 
 .cv-heading {
     text-align: center;
