@@ -9,6 +9,9 @@
     <link rel="preconnect" href="https://fonts.googleapis.com"> 
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
     <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;300;400;500;700&family=Montserrat:wght@100;300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/path/to/styles/default.css">
+    <script src="/path/to/highlight.min.js"></script>
+    <script>hljs.highlightAll();</script>
 </head>
 <body>
     <div class="wrapper">
@@ -175,7 +178,7 @@
                     <h2>Code Example from Codewars</h2>
                     <p>Kata task: Convert decimal numbers to binary. No toString</p>
                     <pre>
-                        <code>
+                        <code class="language-javascript hljs">
                         function decToBin(d) {
                             let binStr = '';
                             if(d == 0) return (binStr + 0);
