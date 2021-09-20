@@ -90,6 +90,25 @@ nav {
     padding-bottom: 10px;
 }
 
+/* Education */
+
+#education {
+    background-color: floralwhite;
+}
+
+.education {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.education div {
+    display: inline-block;
+    width: 25%;
+    vertical-align: text-top;
+    border-left: 1px solid black;
+    padding-left: 8px;
+}
+
 
 
 .cv-heading {
