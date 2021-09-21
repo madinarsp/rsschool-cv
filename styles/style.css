@@ -438,11 +438,13 @@ footer {
         left: -100%;
         width: 100vw;
         height: 100vh;
-        background-color: rgba(12, 11, 11, 0.8);
+        background-color: rgba(0, 0, 0, 0.95);
         flex-direction: column;
         justify-content: center;
         align-items: center;
         transition: all 0.5s ease-in-out;
+        line-height: 50px;
+        
     }
 
     .nav_list.open {
