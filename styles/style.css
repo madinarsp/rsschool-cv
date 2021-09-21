@@ -509,6 +509,21 @@ footer {
 }
 
 @media screen and (max-width: 750px) {
+
+    .photo-contacts_container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .photo_container {
+        width: 100%;
+        text-align: center;
+    }
+
+    .contact-info_container {
+        width: 90%;
+    }
+
     .education div {
         width: 100%;
         margin-bottom: 20px;
