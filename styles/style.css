@@ -7,6 +7,8 @@
     box-sizing: border-box;
 }
 
+/* General styles */
+
 html {
     scroll-behavior: smooth;
 }
@@ -20,6 +22,10 @@ a {
     text-decoration: none;
 }
 
+a:hover {
+    color: #b61919;
+}
+
 ul {
     list-style: none;
 }
@@ -31,8 +37,6 @@ h4 {
     font-family: 'Josefin Sans', sans-serif;
 }
 
-/* Styles for the page */
-
 .wrapper {
     margin: 0 auto;
     width: 100vw;
@@ -41,33 +45,45 @@ h4 {
 .section-container {
     width: 90%;
     margin: 0 auto;
-}
-
-header {
-    background-color: #add8e6;
     padding-top: 20px;
     padding-bottom: 20px;
 }
 
+.section-container h2 {
+    margin-bottom: 10px;
+}
+
+/* Header */
+
+header {
+    background-color: #ffe194;
+}
+
 .header {
     text-align: center;
+    padding-top: 40px;
+    padding-bottom: 20px;
 }
 
 .photo-contacts_container {
     margin: 10px auto;
-    width: 50%;
+    width: 60%;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
 .photo-contacts_container div {
-    /*display: inline-block;*/
     vertical-align: middle;
 }
 
+.photo_container {
+    width: 50%;
+    text-align: right;
+}
+
 #owner-photo {
-    width: 95%;
+    width: 100%;
     border-radius: 50%;
 }
 
@@ -79,11 +95,62 @@ header {
     list-style: none;
 }
 
+.contacts_list li,
+.contact-info_container h4 {
+    margin-bottom: 20px;
+}
+
+.fas,
+.fab {
+    border: 1px solid transparent;
+    border-radius: 50%;
+    padding: 6px;
+}
+
+.fa-whatsapp {
+    color: #ffffff;
+    background-color: #25d366;
+}
+
+.fa-whatsapp:hover {
+    color: #25d366;
+    background-color: #ffffff;
+}
+
+.fa-telegram-plane {
+    color: #ffffff;
+    background-color: #6cc1e3;
+}
+
+.fa-telegram-plane:hover {
+    background-color: #ffffff;
+    color: #6cc1e3;
+}
+
+.fa-phone {
+    color: #ffffff;
+    background-color: #80ed99;
+}
+
+.fa-phone:hover {
+    color: #80ed99;
+    background-color: #ffffff;
+}
+
+.fa-envelope {
+    color: #ffffff;
+    background-color: #22577a;
+}
+
+.fa-envelope:hover {
+    background-color: #ffffff;
+    color: #22577a;
+}
 
 /* Navigation */
 
 nav {
-    background-color: cornflowerblue;
+    background-color: #ffb319;
 }
 
 .nav {
@@ -97,28 +164,21 @@ nav {
     list-style: none;
 }
 
-
-/* About section */
-
-#about {
-    background-color: darksalmon;
+main section:nth-child(even) {
+    background-color: #b8dfd8;
 }
 
+main section:nth-child(odd) {
+    background-color: #e8f6ef;
+}
+
+/* About */
+
 .about {
-    padding-top: 10px;
-    padding-bottom: 10px;
+    line-height: 25px;
 }
 
 /* Education */
-
-#education {
-    background-color: floralwhite;
-}
-
-.education {
-    padding-top: 10px;
-    padding-bottom: 10px;
-}
 
 .education div {
     display: inline-block;
@@ -126,24 +186,19 @@ nav {
     vertical-align: text-top;
     border-left: 1px solid black;
     padding-left: 8px;
+    line-height: 25px;
 }
 
 /* Courses */
 
-#courses {
-    background-color: sandybrown;
-}
-
 .courses {
-    padding-top: 10px;
-    padding-bottom: 10px;
     position: relative;
 }
 
 .courses div {
     display: inline-block;
     width: 100%;
-    
+    margin-bottom: 10px;
 }
 
 .courses div:last-of-type {
@@ -165,14 +220,9 @@ nav {
 
 /* Experience */
 
-#experience {
-    background-color: seashell;
-}
-
 .experience {
-    padding-top: 10px;
-    padding-bottom: 10px;
     text-align: center;
+    line-height: 25px;
 }
 
 .experience p {
@@ -182,19 +232,15 @@ nav {
 
 /* Skills */
 
-#skills {
-    background-color: powderblue;
-}
-
 .skills {
-    padding-top: 10px;
-    padding-bottom: 10px;
+    line-height: 25px;
 }
 
 .tech-skills,
 .lang-skills {
     display: flex;
     justify-content: left;
+    margin-bottom: 20px;
 }
 
 .lang-skills div,
@@ -219,24 +265,16 @@ nav {
 }
 
 /* Code example */
-#code-example {
-    background-color: skyblue;
-}
 
-.code-example {
-    padding-top: 10px;
-    padding-bottom: 10px;
+code {
+    border-radius: 30px;
+    line-height: 20px;
 }
 
 /* Projects */
 
-#projects {
-    background-color: rosybrown;
-}
-
 .projects {
-    padding-top: 10px;
-    padding-bottom: 10px;
+    line-height: 25px;
 }
 
 .project_wrapper {
@@ -272,12 +310,23 @@ nav {
 
 /* Footer */
 
+footer {
+    background-color: #ffb319;
+}
+
 .footer {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-top: 10px;
 }
+
+.fa-github {
+    border: 1px solid transparent;
+    border-radius: 50%;
+    color: #ffffff;
+}
+
+
 
 
 @media screen and (max-width: 1000px) {
