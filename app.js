@@ -17,5 +17,4 @@ navItems.forEach(item => addEventListener('click', (event) => {
         navList.classList.toggle('open');
         body.classList.toggle('locked');
     }
-    
 }));
