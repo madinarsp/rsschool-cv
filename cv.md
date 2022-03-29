@@ -52,11 +52,9 @@ function rgb(r, g, b){
 }
 ```
 
----
-
 ### :briefcase: Work Experience
 
-* Sept 2021 - curr.period - __Junior Frontend Developer__ at "Tengri Lab" company, Nur-Sultan, Kazakhstan
+Sept 2021 - curr.period - __Junior Frontend Developer__ at "Tengri Lab" company, Nur-Sultan, Kazakhstan
    * implementing apps' client-side functionality with the help of Vanilla JS and Vue.js
    * writing HTML layouts
    * design of apps' UI/UX with the help of CSS & UI libraries
@@ -73,8 +71,8 @@ June-Aug 2020 | "Python for Everybody Specialization", Coursera, online
 
 __Time Period__ | __Education and Experience__
 ----------- | ------------------------
-2017-2021 | Bachelor's degree in Computer Science, Nazarbayev University, Nur-Sultan city
+2017 - 2021 | Bachelor's degree in __Computer Science__, Nazarbayev University, Nur-Sultan city
 Jan-Mar 2021 | Internship, Ministry of Digital Development, Innovation, and Aerospace Industry, Nur-Sultan city
-2016-2017 | Foundation Program, Technical direction, Nazarbayev University, Nur-Sultan city
-2009-2014 | Secondary Education, graduated with *Honors Degree*, Economic lyceum, Aktau city
+2016 - 2017 | Foundation Program, Technical direction, Nazarbayev University, Nur-Sultan city
+2009 - 2014 | Secondary Education, graduated with *Honors Degree*, Economic lyceum, Aktau city
 
