@@ -1,5 +1,5 @@
 # Madina Ryspayeva
-### Junior Frontend Developer
+### Junior Frontend Developer :woman_technologist:
 
 *****
 
@@ -15,45 +15,61 @@
 
 * __Technical skills__:
    * _programming on:_
-      * HTML&CSS (50%)
-      * JavaScript(30%)
-      * Python(30%)
-      * Java(30%)
-      * C++ and C (30%)
-      * Flutter (30%)
+      * HTML5 & CSS3
+      * JavaScript
+      * Vue.js
    * _experience with:_
+      * Bootstrap
+      * Quasar framework
+      * Git
+      * Swagger
       * Firebase Platform
       * MySQL system
-      * git version control
-      * Arduino
-   * _knowledge of:_
-      * MIPS Assembly (70%)
+      * Python
+
+* __Language knowledge__:
+   * Russian - native
+   * English - Upper-Intermediate
 
 * Code example
 
-Kata task: _Convert decimal numbers to binary. Enjoy! No cheating. No toString_
+Codewars Problem [RGB To Hex Conversion](https://www.codewars.com/kata/513e08acc600c94f01000001)
 ```javascript
-function decToBin(d) {
-  let binStr = '';
-  if(d == 0) return (binStr + 0);
-  while(d) {
-    binStr = (d % 2) + binStr;
-    d = Math.floor(d / 2);
-  }
-  return binStr;
+function rgb(r, g, b){
+  let arr = [r, g, b];
+  let resColorCode = '';
+  
+  arr = arr.map(function(value) {
+    if(value > 255) return 255;
+    else if(value < 0) return 0;
+    else return value;
+  });
+  
+  
+  arr.forEach(value => {
+    let hexVal = value.toString(16);
+    if(hexVal.length == 1) resColorCode += '0';
+    
+    resColorCode += hexVal.toUpperCase();
+  });
+  return resColorCode;
 }
 ```
 
 ---
 
-* Experience as a Computer Science student: 3-month internship at the Ministry of Digital Development, Innovation, and Aerospace Industry in Nur-Sultan city. The project goal was to construct a report about the state of digital intelligence in the country and propose measures on how to better the situation in that sense. This kind of work was mostly analytical.
+* Work Experience
+
+* Sept 2021 - curr.period - __Junior Frontend Developer__ at "Tengri Lab" company, Nur-Sultan, Kazakhstan
+   * implementing apps' client-side functionality with the help of Vanilla JS and Vue.js
+   * writing HTML layouts
+   * design of apps' UI/UX with the help of CSS & UI libraries
 
 * Courses section
 
 __Time Period__ | __Courses__
 ----------- | ------------------------
-Sept 2021 - curr.period | "JavaScript/Frond-end" course, RS School, online
-June 2021 - curr.period | "Responsive Web Design" course, freeCodeCamp, online
+March 2022 - curr.period | "JavaScript/Frond-end" course, RS School, online
 July-Aug 2021 | "JavaScript/Frond-end. Stage 0" course, RS School, online
 June-Aug 2020 | "Python for Everybody Specialization", Coursera, online
 
@@ -61,9 +77,8 @@ June-Aug 2020 | "Python for Everybody Specialization", Coursera, online
 
 __Time Period__ | __Education and Experience__
 ----------- | ------------------------
-2017-2021 | Bachelors degree in Computer Science, Nazarbayev University, Nur-Sultan city
+2017-2021 | Bachelor's degree in Computer Science, Nazarbayev University, Nur-Sultan city
 Jan-Mar 2021 | Internship, Ministry of Digital Development, Innovation, and Aerospace Industry, Nur-Sultan city
 2016-2017 | Foundation Program, Technical direction, Nazarbayev University, Nur-Sultan city
 2009-2014 | Secondary Education, graduated with *Honors Degree*, Economic lyceum, Aktau city
 
-* English level - strong Upper-Intermediate
