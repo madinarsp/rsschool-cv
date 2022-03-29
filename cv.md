@@ -1,4 +1,5 @@
-# Madina Ryspayeva - Junior Frontend Developer :woman_technologist:
+### Madina Ryspayeva
+#### Junior Frontend Developer :woman_technologist:
 
 ![Applicant's photo](/images/my-photo.JPG)
 
@@ -59,7 +60,7 @@ Sept 2021 - curr.period - __Junior Frontend Developer__ at "Tengri Lab" company,
    * writing HTML layouts
    * design of apps' UI/UX with the help of CSS & UI libraries
 
-### :books: Courses section
+### 📚 Courses section
 
 __Time Period__ | __Courses__
 ----------- | ------------------------
