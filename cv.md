@@ -3,7 +3,7 @@
 
 *****
 
-![Applicant's photo](/images/img.JPG)
+![Applicant's photo](/images/my-photo.JPG)
 
 * Contact me via:
    * Telegram: [@lanalover](https://t.me/lanalover)
