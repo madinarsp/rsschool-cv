@@ -1,12 +1,15 @@
-# My CV
+# Madina Ryspayeva
+### Junior Frontend Developer
 
-* Who am I? Madina Ryspayeva
+*****
+
+![Applicant's photo](/images/img.JPG)
 
 * Contact me via:
-   * Telegram: (nickname) lanalover
-   * Email: madinarsp20@gmail.com
+   * Telegram: [@lanalover](https://t.me/lanalover)
+   * Email: [madinarsp20@gmail.com](mailto:madinarsp20@gmail.com)
 
-* A bit about myself: Nazarbayev University (Nur-Sultan city, Kazakhstan) graduate with a bachelor degree in Computer Science. My current interest is in studying __Front-end development__. I have some basics knowledge about the field but I continue my studies. I'm looking forward to get an internship or a job related to the field to get practical experience and to broaden my knowledge. I find myself quite pedantic (in a good sense) person, who tries to get to the truth of things that are interesting to me. I like discovering (which means learning) new things and always try to know more about them, it's important for me too that the information is true and reliable.
+* A bit about myself: Nazarbayev University (Nur-Sultan city, Kazakhstan) graduate with a Bachelor's degree in Computer Science, Junior specialist. My current interest is in studying __Front-end development__ and further advancing my skills. I have basic knowledge about the field and the 6-months work experience as a Junior Frontend Developer. Now I'm looking for a work place where I can develop as a Frontend specialist, actively participate in interesting projects, and work in close collaboration with other developers.
 
 ---       
 
