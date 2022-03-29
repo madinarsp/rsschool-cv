@@ -1,19 +1,15 @@
-# Madina Ryspayeva
-### Junior Frontend Developer :woman_technologist:
-
-*****
+# Madina Ryspayeva - Junior Frontend Developer :woman_technologist:
 
 ![Applicant's photo](/images/my-photo.JPG)
 
-* Contact me via:
-   * Telegram: [@lanalover](https://t.me/lanalover)
-   * Email: [madinarsp20@gmail.com](mailto:madinarsp20@gmail.com)
+### :envelope: Contact information
+* Telegram: [@lanalover](https://t.me/lanalover)
+* Email: [madinarsp20@gmail.com](mailto:madinarsp20@gmail.com)
 
-* A bit about myself: Nazarbayev University (Nur-Sultan city, Kazakhstan) graduate with a Bachelor's degree in Computer Science, Junior specialist. My current interest is in studying __Front-end development__ and further advancing my skills. I have basic knowledge about the field and the 6-months work experience as a Junior Frontend Developer. Now I'm looking for a work place where I can develop as a Frontend specialist, actively participate in interesting projects, and work in close collaboration with other developers.
+### :wave: A bit about myself
+Nazarbayev University (Nur-Sultan city, Kazakhstan) graduate with a Bachelor's degree in Computer Science, Junior specialist. My current interest is in studying __Front-end development__ and further advancing my skills. I have basic knowledge about the field and the 6-months work experience as a Junior Frontend Developer. Now I'm looking for a work place where I can develop as a Frontend specialist, actively participate in interesting projects, and work in close collaboration with other developers.
 
----       
-
-* __Technical skills__:
+### :computer: Technical skills
    * _programming on:_
       * HTML5 & CSS3
       * JavaScript
@@ -27,11 +23,11 @@
       * MySQL system
       * Python
 
-* __Language knowledge__:
-   * Russian - native
-   * English - Upper-Intermediate
+### :earth_asia: Language knowledge
+* Russian - native
+* English - Upper-Intermediate
 
-* Code example
+### :keyboard: Code example
 
 Codewars Problem [RGB To Hex Conversion](https://www.codewars.com/kata/513e08acc600c94f01000001)
 ```javascript
@@ -58,14 +54,14 @@ function rgb(r, g, b){
 
 ---
 
-* Work Experience
+### :briefcase: Work Experience
 
 * Sept 2021 - curr.period - __Junior Frontend Developer__ at "Tengri Lab" company, Nur-Sultan, Kazakhstan
    * implementing apps' client-side functionality with the help of Vanilla JS and Vue.js
    * writing HTML layouts
    * design of apps' UI/UX with the help of CSS & UI libraries
 
-* Courses section
+### :books: Courses section
 
 __Time Period__ | __Courses__
 ----------- | ------------------------
@@ -73,7 +69,7 @@ March 2022 - curr.period | "JavaScript/Frond-end" course, RS School, online
 July-Aug 2021 | "JavaScript/Frond-end. Stage 0" course, RS School, online
 June-Aug 2020 | "Python for Everybody Specialization", Coursera, online
 
-* Education section
+### :woman_student: Education section
 
 __Time Period__ | __Education and Experience__
 ----------- | ------------------------
