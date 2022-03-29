@@ -10,7 +10,7 @@
 ### 👋 A bit about myself
 Nazarbayev University (Nur-Sultan city, Kazakhstan) graduate with a Bachelor's degree in Computer Science, Junior specialist. My current interest is in studying __Front-end development__ and further advancing my skills. I have basic knowledge about the field and the 6-months work experience as a Junior Frontend Developer. Now I'm looking for a work place where I can develop as a Frontend specialist, actively participate in interesting projects, and work in close collaboration with other developers.
 
-=====
+-----
 
 ### 💻 Technical skills
    * _programming on:_
@@ -55,7 +55,7 @@ function rgb(r, g, b){
 }
 ```
 
-=====
+-----
 
 ### 💼 Work Experience
 
