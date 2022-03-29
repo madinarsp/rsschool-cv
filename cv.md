@@ -29,7 +29,7 @@ Nazarbayev University (Nur-Sultan city, Kazakhstan) graduate with a Bachelor's d
 
 ### :keyboard: Code example
 
-Codewars Problem [RGB To Hex Conversion](https://www.codewars.com/kata/513e08acc600c94f01000001)
+Codewars Problem - [RGB To Hex Conversion](https://www.codewars.com/kata/513e08acc600c94f01000001)
 ```javascript
 function rgb(r, g, b){
   let arr = [r, g, b];
@@ -75,4 +75,3 @@ __Time Period__ | __Education and Experience__
 Jan-Mar 2021 | Internship, Ministry of Digital Development, Innovation, and Aerospace Industry, Nur-Sultan city
 2016 - 2017 | Foundation Program, Technical direction, Nazarbayev University, Nur-Sultan city
 2009 - 2014 | Secondary Education, graduated with *Honors Degree*, Economic lyceum, Aktau city
-
