@@ -17,10 +17,14 @@ Nazarbayev University (Nur-Sultan city, Kazakhstan) graduate with a Bachelor's d
       * HTML5 & CSS3
       * JavaScript
       * Vue.js
+   * _knowledge of:_
+      * SCSS
+      * Git
    * _experience with:_
       * Bootstrap
       * Quasar framework
-      * Git
+      * Ant design vue
+      * NuxtJS
       * Swagger
       * Firebase Platform
       * MySQL system
@@ -59,10 +63,16 @@ function rgb(r, g, b){
 
 ### 💼 Work Experience
 
-Sept 2021 - curr.period - __Junior Frontend Developer__ at "Tengri Lab" company, Nur-Sultan, Kazakhstan
+May 2022 - curr.period - __Junior Frontend Developer__ at "Univero Ltd." company, Nur-Sultan, Kazakhstan
+   * implementing apps' client-side functionality with the help Vue.js and NuxtJS
+   * working in pair with UI/UX designer
+   * design of the apps' UI/UX with the help of CSS & UI libraries
+   * fix bugs in early implemented functionality
+   * improving the current layout (in accordance with new design)
+Sept 2021 - March 2022 - __Junior Frontend Developer__ at "Tengri Lab" company, Nur-Sultan, Kazakhstan
    * implementing apps' client-side functionality with the help of Vanilla JS and Vue.js
    * writing HTML layouts
-   * design of apps' UI/UX with the help of CSS & UI libraries
+   * design of the apps' UI/UX with the help of CSS & UI libraries
 
 ### 📚 Courses section
 
