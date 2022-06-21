@@ -69,6 +69,7 @@ May 2022 - curr.period - __Junior Frontend Developer__ at "Univero Ltd." company
    * design of the apps' UI/UX with the help of CSS & UI libraries
    * fix bugs in early implemented functionality
    * improving the current layout (in accordance with new design)
+
 Sept 2021 - March 2022 - __Junior Frontend Developer__ at "Tengri Lab" company, Nur-Sultan, Kazakhstan
    * implementing apps' client-side functionality with the help of Vanilla JS and Vue.js
    * writing HTML layouts
