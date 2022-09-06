@@ -1,7 +1,7 @@
 
 # Madina Ryspayeva - Junior Software Engineer | Vue.js | NuxtJS 👩‍💻
 
-![Applicant's photo](/images/my-photo.JPG)
+![Applicant's photo](/assets/imgs/my-photo.JPG)
 
 ### ✉️ Contact information
 * Telegram: [@lanalover](https://t.me/lanalover)
