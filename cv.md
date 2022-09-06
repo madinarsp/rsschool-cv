@@ -6,7 +6,7 @@
 ### ✉️ Contact information
 * Telegram: [@lanalover](https://t.me/lanalover)
 * Email: <madinarsp20@gmail.com>
-* [My LinkedIn Page](https://www.linkedin.com/in/madina-r-7b2238233/)
+* [My LinkedIn Page](https://www.linkedin.com/in/madina-ryspayeva-7b2238233/)
 
 ### 👋 A bit about myself
 Nazarbayev University (Nur-Sultan city, Kazakhstan) graduate with a Bachelor's degree in Computer Science, Junior Software Engineer, whose current interest is in __Frontend development__. I have solid foundation knowledge about the field and 1-year work experience as a Junior Frontend Developer. As a young specialist I always strive to consolidate and advance my knowledge and skills. For example, at the current moment I'm learning React Framework, which is new to me. Now I'm looking for a work place where I can further develop as a Software Engineer, actively participate in interesting projects, and work in close collaboration with other developers.
